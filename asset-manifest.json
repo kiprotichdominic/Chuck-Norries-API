@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norries-API/static/css/main.3eb4f662.chunk.css",
+    "main.js": "/Chuck-Norries-API/static/js/main.7245c857.chunk.js",
+    "main.js.map": "/Chuck-Norries-API/static/js/main.7245c857.chunk.js.map",
+    "runtime-main.js": "/Chuck-Norries-API/static/js/runtime-main.cc3198e5.js",
+    "runtime-main.js.map": "/Chuck-Norries-API/static/js/runtime-main.cc3198e5.js.map",
+    "static/js/2.86efa4dc.chunk.js": "/Chuck-Norries-API/static/js/2.86efa4dc.chunk.js",
+    "static/js/2.86efa4dc.chunk.js.map": "/Chuck-Norries-API/static/js/2.86efa4dc.chunk.js.map",
+    "static/js/3.e2d0e609.chunk.js": "/Chuck-Norries-API/static/js/3.e2d0e609.chunk.js",
+    "static/js/3.e2d0e609.chunk.js.map": "/Chuck-Norries-API/static/js/3.e2d0e609.chunk.js.map",
+    "index.html": "/Chuck-Norries-API/index.html",
+    "static/css/main.3eb4f662.chunk.css.map": "/Chuck-Norries-API/static/css/main.3eb4f662.chunk.css.map",
+    "static/js/2.86efa4dc.chunk.js.LICENSE.txt": "/Chuck-Norries-API/static/js/2.86efa4dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc3198e5.js",
+    "static/js/2.86efa4dc.chunk.js",
+    "static/css/main.3eb4f662.chunk.css",
+    "static/js/main.7245c857.chunk.js"
+  ]
+}
